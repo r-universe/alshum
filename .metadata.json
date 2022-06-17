@@ -1,0 +1,10 @@
+[
+  {
+    "package": "hashids",
+    "oncran": true
+  },
+  {
+    "package": "rwunderground",
+    "oncran": true
+  }
+]

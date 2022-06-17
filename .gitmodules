@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hashids"]
+	path = hashids
+	url = https://github.com/alshum/hashids-r
+	shallow = true
+	registered = true
+[submodule "rwunderground"]
+	path = rwunderground
+	url = https://github.com/alshum/rwunderground
+	shallow = true
+	registered = true
